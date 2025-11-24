@@ -6,7 +6,7 @@ This project implements a ReAct (Reasoning and Acting) agent for software engine
 
 1. **Install dependencies**
    ```bash
-   uv pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 2. **Set up environment variables:**
